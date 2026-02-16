@@ -1,5 +1,5 @@
 import sys
-sys.path.append('C:\\Python\\pythonProject8\\KR-DZ\\database')
+sys.path.append('C:\\Python\\pythonProject8\\task_manager\\database')
 from database.task_repository import TaskRepository
 
 repo = TaskRepository()
