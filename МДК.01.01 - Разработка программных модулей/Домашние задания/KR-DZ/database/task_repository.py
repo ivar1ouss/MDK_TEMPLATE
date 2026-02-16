@@ -1,5 +1,5 @@
 import sys
-sys.path.append('C:\\Python\\pythonProject8\\KR-DZ\\database')
+sys.path.append('C:\\Python\\pythonProject8\\task_manager\\database')
 from D_connection import get_engine
 import pandas as pd
 from sqlalchemy import text
